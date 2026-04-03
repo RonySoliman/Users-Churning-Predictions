@@ -2,9 +2,10 @@
 
 <p align="left">
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="Made with Python">
+    <img src="https://img.shields.io/badge/Made%20with-Python-4682B4.svg" alt="Made with Python">
   </a>
-  <img src="https://img.shields.io/badge/Scikit-learn%20?label=Python%20Library&color=green" alt="Scikit-learn Badge">
+  <img src="https://img.shields.io/badge/Scikit--Learn-library?label=Python-Library&color=%23B5C7EB" alt="Scikit-learn Badge">
+  <img src="https://img.shields.io/badge/CatBoost-library?label=Python-Library&color=%23F88379" alt="CatBoost Badge">
 </p>
 
 An end-to-end machine learning pipeline for the **Kaggle Playground Series Season 6, Episode 3** competition, predicting whether a telecom customer will churn using gradient-boosted decision trees. The project is split across two notebooks: a **data processing pipeline** and a **modelling & evaluation** pipeline.
