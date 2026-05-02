@@ -1,4 +1,4 @@
-# ⏳ Predict Customer Churn — Kaggle Playground Series S6E3
+# ⏳ Predict Customer Churn
 
 <p align="left">
   <a href="https://www.python.org/">
